@@ -12,5 +12,5 @@ Features:
 3.Spatial query feature: Allows the user to enter a city and search for information within certain distance
 		When the User enters a particular city and selects the desired radius from the dropdown, the Wikipedia articles around that region is displayed.
 		
-5. Implement a marker cluster in your Google Maps program.
+4.Marker cluster:
 		A Marker Clusterer is also implemented as a part of this project. Where clicking on a cluster in the map, gives the group of clusters in that area.
